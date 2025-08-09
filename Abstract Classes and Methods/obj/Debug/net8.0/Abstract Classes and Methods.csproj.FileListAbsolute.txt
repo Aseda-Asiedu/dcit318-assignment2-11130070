@@ -1,0 +1,15 @@
+C:\Users\asied\OneDrive\Desktop\School\dcit300\dcit318\dcit318-assignment2-11130070\Abstract Classes and Methods\bin\Debug\net8.0\Abstract Classes and Methods.exe
+C:\Users\asied\OneDrive\Desktop\School\dcit300\dcit318\dcit318-assignment2-11130070\Abstract Classes and Methods\bin\Debug\net8.0\Abstract Classes and Methods.deps.json
+C:\Users\asied\OneDrive\Desktop\School\dcit300\dcit318\dcit318-assignment2-11130070\Abstract Classes and Methods\bin\Debug\net8.0\Abstract Classes and Methods.runtimeconfig.json
+C:\Users\asied\OneDrive\Desktop\School\dcit300\dcit318\dcit318-assignment2-11130070\Abstract Classes and Methods\bin\Debug\net8.0\Abstract Classes and Methods.dll
+C:\Users\asied\OneDrive\Desktop\School\dcit300\dcit318\dcit318-assignment2-11130070\Abstract Classes and Methods\bin\Debug\net8.0\Abstract Classes and Methods.pdb
+C:\Users\asied\OneDrive\Desktop\School\dcit300\dcit318\dcit318-assignment2-11130070\Abstract Classes and Methods\obj\Debug\net8.0\Abstract Classes and Methods.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\asied\OneDrive\Desktop\School\dcit300\dcit318\dcit318-assignment2-11130070\Abstract Classes and Methods\obj\Debug\net8.0\Abstract Classes and Methods.AssemblyInfoInputs.cache
+C:\Users\asied\OneDrive\Desktop\School\dcit300\dcit318\dcit318-assignment2-11130070\Abstract Classes and Methods\obj\Debug\net8.0\Abstract Classes and Methods.AssemblyInfo.cs
+C:\Users\asied\OneDrive\Desktop\School\dcit300\dcit318\dcit318-assignment2-11130070\Abstract Classes and Methods\obj\Debug\net8.0\Abstract Classes and Methods.csproj.CoreCompileInputs.cache
+C:\Users\asied\OneDrive\Desktop\School\dcit300\dcit318\dcit318-assignment2-11130070\Abstract Classes and Methods\obj\Debug\net8.0\Abstract Classes and Methods.sourcelink.json
+C:\Users\asied\OneDrive\Desktop\School\dcit300\dcit318\dcit318-assignment2-11130070\Abstract Classes and Methods\obj\Debug\net8.0\Abstract Classes and Methods.dll
+C:\Users\asied\OneDrive\Desktop\School\dcit300\dcit318\dcit318-assignment2-11130070\Abstract Classes and Methods\obj\Debug\net8.0\refint\Abstract Classes and Methods.dll
+C:\Users\asied\OneDrive\Desktop\School\dcit300\dcit318\dcit318-assignment2-11130070\Abstract Classes and Methods\obj\Debug\net8.0\Abstract Classes and Methods.pdb
+C:\Users\asied\OneDrive\Desktop\School\dcit300\dcit318\dcit318-assignment2-11130070\Abstract Classes and Methods\obj\Debug\net8.0\Abstract Classes and Methods.genruntimeconfig.cache
+C:\Users\asied\OneDrive\Desktop\School\dcit300\dcit318\dcit318-assignment2-11130070\Abstract Classes and Methods\obj\Debug\net8.0\ref\Abstract Classes and Methods.dll
